@@ -50,12 +50,16 @@
 ## App Files and Folders
 ### apps.py
 - main configuration of the blog application
-
+### admin.py
+- [Admin objects](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#modeladmin-objects)
 
 ## To study
 - [Design philosophies](https://docs.djangoproject.com/en/5.0/misc/design-philosophies/)
 - Multiple environments and different configurations files
 - Not Using delete cascading. How to implement other solution: [ForeignKey.on_delete](https://docs.djangoproject.com/en/5.0/ref/models/fields/#django.db.models.ForeignKey.on_delete)
+- [Template language](https://docs.djangoproject.com/en/5.0/ref/templates/language/)
+--  template tags, template variables, and template filters
+
 
 
 ## Concepts
@@ -71,6 +75,10 @@
 #### View
 #### URLs
 #### Migrations
+#### Template
+- {% tag %}
+- {{ variable }}
+- {{ variable|filter }}
 
 
 
