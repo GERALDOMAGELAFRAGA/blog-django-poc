@@ -1,6 +1,7 @@
 # Django project for learning proposal
 - Based on the book "Django 4 By Example, Fourth Edition" by Antonio Melé
 - Building a Blog Application
+- https://github.com/PacktPublishing/Django-4-by-example
 
 ## Commands
 1. python -m venv .venv
